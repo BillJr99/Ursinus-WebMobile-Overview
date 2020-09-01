@@ -1,7 +1,7 @@
 ---
 info:
-  coursenum: "CS173"
-  title: "Intro to Computer Science"
+  coursenum: "Web and Mobile Development"
+  title: "Overview"
   instructor: "Bill Mongan"
 ---
 
