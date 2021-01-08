@@ -2,7 +2,7 @@
 transition: zoom
 
 info:
-  website: "http://www.billmongan.com/Ursinus-WebMobile-Fall2020"
+  website: "http://www.billmongan.com/Ursinus-WebMobile"
 ---
 
 ## Class Logistics and Culture
